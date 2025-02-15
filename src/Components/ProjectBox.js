@@ -20,6 +20,14 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     WigglesDesc:"An innovative pet management web app enabling pet parents to create unique pet IDs, securely store and share vaccination records, and generate QR codes for pet profiles, enhancing safety.",
     WigglesGithub:"https://github.com/DevanshSahni/Wiggles",
     WigglesWebsite:"https://wiggles.vercel.app/",
+
+    QuotesDesc:"Random Quotes Generator is a simple web application that displays random inspirational, motivational, or humorous quotes at the click of a button. It helps users find daily inspiration and share meaningful words effortlessly.",
+    QuotesGithub:"https://github.com/navdeep111/Random-Quotes-Generator-",
+    QuotesWebsite:"https://quotes.navdeep.tech/",
+
+    MomomiaDesc:"Food Ordering Website is a user-friendly platform that allows customers to browse menus, place orders.",
+    MomomiaGithub:"https://github.com/navdeep111/food-ordering-website",
+    MomomiaWebsite:"https://momomia.navdeep.tech/",
   }
 
   let show ='';
