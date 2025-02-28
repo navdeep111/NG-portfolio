@@ -1,0 +1,6 @@
+# Allow All Bots to Index Your Site
+User-agent: *
+Allow: /
+
+# Sitemap Path
+Sitemap: https://navdeep.tech/sitemap.xml

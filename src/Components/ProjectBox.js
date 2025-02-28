@@ -15,6 +15,13 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     MomomiaGithub:"https://github.com/navdeep111/food-ordering-website",
     MomomiaWebsite:"https://momomia.navdeep.tech/",
 
+    PasswordlessAuthenticationDesc:"A passwordless authentication system built with the MERN stack, allowing users to authenticate seamlessly using their phone numbers.",
+    PasswordlessAuthenticationGithub:"https://github.com/navdeep111/Mobile-OTP-Authentication",
+    PasswordlessAuthenticationWebsite:"https://otp.navdeep.tech/",
+    
+    FirebaseAuthenticationDesc:"A React-based Firebase authentication system enabling users to sign in using phone numbers or email.",  
+    FirebaseAuthenticationGithub:"https://github.com/navdeep111/Firebase-Authentication...",
+    FirebaseAuthenticationWebsite:"https://firebaseauth.navdeep.tech/",
 
   }
 
