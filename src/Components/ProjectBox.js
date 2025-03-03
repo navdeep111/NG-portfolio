@@ -7,9 +7,13 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
     
 
-    QuotesDesc:"Random Quotes Generator is a simple web application that displays random inspirational, motivational, or humorous quotes at the click of a button. It helps users find daily inspiration and share meaningful words effortlessly.",
-    QuotesGithub:"https://github.com/navdeep111/Random-Quotes-Generator-",
-    QuotesWebsite:"https://quotes.navdeep.tech/",
+    // QuotesDesc:"Random Quotes Generator is a simple web application that displays random inspirational, motivational, or humorous quotes at the click of a button. It helps users find daily inspiration and share meaningful words effortlessly.",
+    // QuotesGithub:"https://github.com/navdeep111/Random-Quotes-Generator-",
+    // QuotesWebsite:"https://quotes.navdeep.tech/",
+
+    VideoConferencingDesc:"A Video Call Application built using ReactJS and ZegoCloud enables seamless real-time video communication with high-quality audio, video, and interactive features.",
+    // VideoConferencingGithub:"https://github.com/navdeep111/VideoCallAPP",
+    VideoConferencingWebsite:"https://meet.navdeep.tech/",
 
     MomomiaDesc:"Food Ordering Website is a user-friendly platform that allows customers to browse menus, place orders.",
     MomomiaGithub:"https://github.com/navdeep111/food-ordering-website",
